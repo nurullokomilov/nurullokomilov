@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hello! I'm Nurullo Komilov
 
-<!--
-**nurullokomilov/nurullokomilov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I am a student at IUT  
+🤖 Future AI/ML Programmer  
+🐍 Currently learning Python  
+📘 Following a clear AI/ML roadmap
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 My Current Focus
+
+- Python (automation, scripting)
+- Git & GitHub basics
+- Math for ML (linear algebra, probability)
+- Learning Numpy, Pandas, Matplotlib
+
+---
+
+### 🚀 My Goals
+
+- Build and share ML projects on GitHub
+- Learn to use scikit-learn, TensorFlow, and PyTorch
+- Explore computer vision and NLP
+- Intern or work on AI projects in the next 1–2 years
+
+---
+
+### 🛠️ Tools I Use
+
+- Visual Studio Code
+- GitHub
+- Jupyter Notebook / Google Colab
+
+---
+
+### 📫 Connect with Me
+
+- 📧 Email: [komilov.nurullo2006@gmail.com](mailto:komilov.nurullo2006@gmail.com)
+
+---
+
+> I'm learning in public — follow my journey as I grow into an AI/ML engineer!
